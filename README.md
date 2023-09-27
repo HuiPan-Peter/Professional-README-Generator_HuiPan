@@ -41,6 +41,7 @@ What problem does this application try to solve?: Help user quickly and easily c
 ## Usage
 
 under bash command ``` node index.js ``` to invoke the application
+[GitHub Demo Folder]https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan/tree/main/Screenshots%20%26%20Video
 
 ## Tests
 

@@ -24,8 +24,6 @@
  ## Installation
 1.download GitHub repository; <br>2.open folder with VSCode to check "dependencies": {"inquirer": "^8.2.4"}; <br>3.under node command-line run “npm i” to install inquirer@8.2.4;
 
- [Github Live Site]undefined
-
  [Github Repo Site]https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan
 
  ## Usage
