@@ -42,7 +42,11 @@ What problem does this application try to solve?: Help user quickly and easily c
 ## Usage
 under bash command ``` node index.js ``` to invoke the application
 
-[Github Demo Folder]https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan/tree/main/Screenshots%20%26%20Video
+[Walkthrough Video Demo Folder]https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan/tree/main/Screenshots%20%26%20Video
+
+ScreenShot of Generated Readme:
+![image](https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan/assets/132380239/ff4f465b-d891-47a5-8fe8-9063d6949cc5)
+
 
 ## Tests
 
