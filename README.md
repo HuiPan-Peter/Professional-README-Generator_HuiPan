@@ -33,8 +33,9 @@ What problem does this application try to solve?: Help user quickly and easily c
 
 ## Installation
 
-1.download GitHub repository; 
-2.open folder with VSCode to check "dependencies": {"inquirer": "^8.2.4"}; 3.under node command-line run “npm i” to install inquirer@8.2.4;
+1.Download GitHub repository; 
+2.Open folder with VSCode to check "dependencies": {"inquirer": "^8.2.4"}; 
+3.Under node command-line run “npm i” to install inquirer@8.2.4;
 
 [Github Repo Site]https://github.com/HuiPan-Peter/Professional-README-Generator_HuiPan
 
